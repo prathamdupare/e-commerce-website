@@ -2,7 +2,7 @@ import React from "react";
 
 const Newsletter = () => {
   return (
-    <div className="newsletter w-[3/5] h-[40vh] flex flex-col items-center justify-center m-auto py-[140px] m-[450px]  bg-gradient-to-r from-gray-100 to-pink-300 gap-[30px]">
+    <div className="newsletter w-[3/5] h-[40vh] rounded-[10px] flex flex-col items-center justify-center m-auto p-[140px] mx-[450px]  bg-gradient-to-r from-gray-100 to-pink-300 gap-[30px]">
       <h1 className="text-gray-800 text-[55px] font-semibold ">
         Get Exclusive Offers On Your Email
       </h1>
